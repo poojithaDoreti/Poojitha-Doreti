@@ -18,14 +18,15 @@ I am a **Senior Full Stack Developer** with over **7 years of experience** speci
 
 ### 📌 **Experience **  
 
-#### 1️⃣ **<h2>Clearwave-Corporation[Patient Revenue Platform]
+#### 1️⃣ <h2 style="color:blue;">Clearwave-Corporation [Patient Revenue Platform]</h2>
+
 (Oct 2023-Present) </h2>
  SKills-*(Spring Boot, React.js, AWS, Docker, Kubernetes)
 
-- Developed microservices for patient billing, insurance claims, and financial transactions  
+<h1>Senior Full Stack Developer</h1>  
+ Developed microservices for patient billing, insurance claims, and financial transactions  
 🔹 Integrated **AWS Lambda & API Gateway** for serverless processing  
 🔹 Implemented **OAuth 2.0, JWT, SAML** for secure authentication
-<h1>Senior Full Stack Developer</h1>  
 Developed and configured `spring-config.xml`, optimizing backend workflows for React-based patient registration and billing apps.
 - Designed and implemented RESTful APIs using Spring Boot, leveraging AWS API Gateway for secure and scalable API management.  
 - Built microservices architecture with Spring Boot, enhancing system scalability and ensuring efficient deployment with AWS ECS & Lambda.  
