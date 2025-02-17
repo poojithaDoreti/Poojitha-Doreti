@@ -16,12 +16,28 @@ I am a **Senior Full Stack Developer** with over **7 years of experience** speci
 
 ---
 
-### 📌 **Projects**  
+### 📌 **Experience **  
 
-#### 1️⃣ **[Patient Revenue Management System](#)** *(Spring Boot, React.js, AWS, Docker, Kubernetes)*  
-🔹 Developed microservices for patient billing, insurance claims, and financial transactions  
+#### 1️⃣ **<h2>Clearwave-Corporation[Patient Revenue Platform]
+(Oct 2023-Present) </h2>
+ SKills-*(Spring Boot, React.js, AWS, Docker, Kubernetes)
+
+- Developed microservices for patient billing, insurance claims, and financial transactions  
 🔹 Integrated **AWS Lambda & API Gateway** for serverless processing  
-🔹 Implemented **OAuth 2.0, JWT, SAML** for secure authentication  
+🔹 Implemented **OAuth 2.0, JWT, SAML** for secure authentication
+<h1>Senior Full Stack Developer</h1>  
+Developed and configured `spring-config.xml`, optimizing backend workflows for React-based patient registration and billing apps.
+- Designed and implemented RESTful APIs using Spring Boot, leveraging AWS API Gateway for secure and scalable API management.  
+- Built microservices architecture with Spring Boot, enhancing system scalability and ensuring efficient deployment with AWS ECS & Lambda.  
+- Created Spring Boot & Spring Batch microservices for patient financial records, billing cycles, and insurance claims on AWS EC2 & S3.  
+- Developed RESTful authentication services with Spring Boot, integrating AWS Cognito for SSO and RBAC.  
+- Optimized database connectivity with Hibernate and session-per-request pattern for real-time transactions on AWS RDS & DynamoDB.  
+- Secured authentication & authorization with OAuth 2.0, JWT, SAML, and AWS IAM & KMS for encryption.  
+- Developed React.js components for patient check-in, insurance validation, and billing summaries, hosted via AWS CloudFront for performance.  
+
+<br
+
+
 
 #### 2️⃣ **[E-Commerce Platform - GAP](#)** *(Java, Spring Boot, Angular, AWS, Kubernetes)*  
 🔹 Designed scalable microservices for order processing and inventory management  
